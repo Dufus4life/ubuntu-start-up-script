@@ -1,0 +1,18 @@
+#!/bin/sh
+
+echo
+
+echo "* * * * * * * * * * W A R N I N G * * * * * * * * * *"
+
+echo
+
+echo "* * * UNAUTHORIZED ACCESS TO THIS DEVICE IS PROHIBITED * * *"
+
+echo
+
+echo "This computer system is the property of the AEGFINAC LLC. It is for authorized use only."
+echo "You must have explicit, authorized permission to access or configure this device."
+echo "Unauthorized attempts and actions to access or use this system may result in civil and/or"
+echo "criminal penalties. All activities performed on this device are logged and monitored!"
+
+echo
